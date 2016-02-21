@@ -1,0 +1,470 @@
+{
+  "name": "Liquor",
+  "children": [
+    {
+      "name": "Whiskey",
+      "children": [
+        {
+          "name": "Allied Blenders & Distillers Pvt. Ltd.",
+          "children": [
+            {
+              "name": "Officer's Choice",
+              "size": 3020
+            }
+          ]
+        },
+        {
+          "name": "Diageo/United Spirits",
+          "children": [
+            {
+              "name": "McDowell's No.1",
+              "size": 2500
+            },
+            {
+              "name": "Old Tavern",
+              "size": 1120
+            },
+            {
+              "name": "Haywards Fine",
+              "size": 1040
+            },
+            {
+              "name": "Bagpiper",
+              "size": 950
+            }
+          ]
+        },
+        {
+          "name": "Diageo",
+          "children": [
+            {
+              "name": "Johnnie Walker",
+              "size": 1790
+            },
+            {
+              "name": "Crown Royal",
+              "size": 530
+            }
+          ]
+        },
+        {
+          "name": "Pernod Ricard",
+          "children": [
+            {
+              "name": "Royal Stag",
+              "size": 1570
+            },
+            {
+              "name": "Imperial Blue",
+              "size": 1490
+            },
+            {
+              "name": "Ballantine's",
+              "size": 590
+            },
+            {
+              "name": "Jameson",
+              "size": 470
+            },
+            {
+              "name": "Chivas Regal",
+              "size": 4.6
+            },
+            {
+              "name": "Blenders Pride",
+              "size": 4.4
+            }
+          ]
+        },
+        {
+          "name": "William Grant & Sons",
+          "children": [
+            {
+              "name": "Grant's",
+              "size": 440
+            }
+          ]
+        },
+        {
+          "name": "Radico Khaitan",
+          "children": [
+            {
+              "name": "8PM",
+              "size": 430
+            }
+          ]
+        },
+        {
+          "name": "John Distilleries Pvt. Ltd.",
+          "children": [
+            {
+              "name": "Original Choice",
+              "size": 1050
+            }
+          ]
+        },
+        {
+          "name": "Brown-Forman",
+          "children": [
+            {
+              "name": "Jack Daniel's",
+              "size": 1170
+            }
+          ]
+        },
+        {
+          "name": "Beam Suntory",
+          "children": [
+            {
+              "name": "Jim Beam",
+              "size": 740
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vodka",
+      "children": [
+        {
+          "name": "Synergy",
+          "children": [
+            {
+              "name": "Belenkaya",
+              "size": 470
+            }
+          ]
+        },
+        {
+          "name": "Roust Inc.",
+          "children": [
+            {
+              "name": "Zubrowka",
+              "size": 520
+            },
+            {
+              "name": "Green Mark",
+              "size": 420
+            }
+          ]
+        },
+        {
+          "name": "Pernod Ricard",
+          "children": [
+            {
+              "name": "Absolut",
+              "size": 1110
+            }
+          ]
+        },
+        {
+          "name": "Minsk Kristall",
+          "children": [
+            {
+              "name": "Kristall",
+              "size": 410
+            }
+          ]
+        },
+        {
+          "name": "Global Spirits",
+          "children": [
+            {
+              "name": "Khortytsa",
+              "size": 710
+            }
+          ]
+        },
+        {
+          "name": "Diageo",
+          "children": [
+            {
+              "name": "Smirnoff",
+              "size": 2560
+            }
+          ]
+        },
+        {
+          "name": "Constellation Brands",
+          "children": [
+            {
+              "name": "Svedka",
+              "size": 420
+            }
+          ]
+        },
+        {
+          "name": "Bayadera Group",
+          "children": [
+            {
+              "name": "Khlibniy Dar",
+              "size": 660
+            }
+          ]
+        },
+        {
+          "name": "Bacardi",
+          "children": [
+            {
+              "name": "Grey Goose",
+              "size": 400
+            }
+          ]
+        },
+        {
+          "name": "Alcohol Siberian Group",
+          "children": [
+            {
+              "name": "Pyat Ozer",
+              "size": 550
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Soju",
+      "children": [
+        {
+          "name": "Lotte Liquor",
+          "children": [
+            {
+              "name": "Chum-churum",
+              "size": 2840
+            }
+          ]
+        },
+        {
+          "name": "HITE-Jinro",
+          "children": [
+            {
+              "name": "Jinro",
+              "size": 7100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Shochu",
+      "children": [
+        {
+          "name": "Sanwa Shrui Co.",
+          "children": [
+            {
+              "name": "Lichiko",
+              "size": 800
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rum",
+      "children": [
+        {
+          "name": "Tanduay Distillers Inc.",
+          "children": [
+            {
+              "name": "Tanduay",
+              "size": 1700
+            }
+          ]
+        },
+        {
+          "name": "Pernod Ricard",
+          "children": [
+            {
+              "name": "Havana Club",
+              "size": 400
+            }
+          ]
+        },
+        {
+          "name": "Diageo/United Spirits",
+          "children": [
+            {
+              "name": "McDowell's No.1 Celebration",
+              "size": 1830
+            }
+          ]
+        },
+        {
+          "name": "Diageo",
+          "children": [
+            {
+              "name": "Captain Morgan",
+              "size": 1040
+            }
+          ]
+        },
+        {
+          "name": "Bacardi",
+          "children": [
+            {
+              "name": "Bacardi",
+              "size": 1820
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Liqeurs",
+      "children": [
+        {
+          "name": "Pernod Ricard",
+          "children": [
+            {
+              "name": "Ricard",
+              "size": 480
+            }
+          ]
+        },
+        {
+          "name": "Fratelli Branca Distillerie",
+          "children": [
+            {
+              "name": "Fernet Branca",
+              "size": 5200
+            }
+          ]
+        },
+        {
+          "name": "Diageo",
+          "children": [
+            {
+              "name": "Baileys",
+              "size": 620
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gin",
+      "children": [
+        {
+          "name": "Ginebra San Miguel Inc.",
+          "children": [
+            {
+              "name": "Ginebra San Miguel",
+              "size": 1900
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cognac",
+      "children": [
+        {
+          "name": "LVMH",
+          "children": [
+            {
+              "name": "Hennessy",
+              "size": 550
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cachaca",
+      "children": [
+        {
+          "name": "Tatuzinho",
+          "children": [
+            {
+              "name": "Velho Barreiro",
+              "size": 980
+            }
+          ]
+        },
+        {
+          "name": "Engarrafamento Pitu",
+          "children": [
+            {
+              "name": "Pitu",
+              "size": 1060
+            }
+          ]
+        },
+        {
+          "name": "Diageo",
+          "children": [
+            {
+              "name": "Ypioca",
+              "size": 700
+            }
+          ]
+        },
+        {
+          "name": "Companhia Muller de Bebidas",
+          "children": [
+            {
+              "name": "Cachaca 51",
+              "size": 1700
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Brandy",
+      "children": [
+        {
+          "name": "Alliance Global Group",
+          "children": [
+            {
+              "name": "Emperador",
+              "size": 3300
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bitters",
+      "children": [
+        {
+          "name": "Mast-Jagermeister",
+          "children": [
+            {
+              "name": "Jagermeister",
+              "size": 680
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Baijiu",
+      "children": [
+        {
+          "name": "Lushou Laojiao",
+          "children": [
+            {
+              "name": "Laojiao",
+              "size": 2090
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Aguardiente",
+      "children": [
+        {
+          "name": "Fabrica De Alcoholes y Licores de Antioquia",
+          "children": [
+            {
+              "name": "Antioqueno",
+              "size": 400
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
